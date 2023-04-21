@@ -1,0 +1,40 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Apr 20 19:05:33 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000058
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00002b      
+            44 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x00000a    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                    CINCO   0x000017    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                   CUATRO   0x000012    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                     SEIS   0x00001c    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                    TABLA   0x000021    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x00000a    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                   CUATRO   0x000012    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                    CINCO   0x000017    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                     SEIS   0x00001c    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+                    TABLA   0x000021    program     static C:\Users\ESTUDIANTE66\Documents\Valenzuela_A\Practica5\Prac5.asm
+
+
